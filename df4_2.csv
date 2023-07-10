@@ -1,0 +1,370 @@
+ID,Income,Age,Experience,Married/Single,House_Ownership,Car_Ownership,Profession,CITY,STATE,CURRENT_JOB_YRS,CURRENT_HOUSE_YRS
+1,7393090,59,19,single,rented,no,Geologist,Malda,West Bengal,4,13
+2,1215004,25,5,single,rented,no,Firefighter,Jalna,Maharashtra,5,10
+3,8901342,50,12,single,rented,no,Lawyer,Thane,Maharashtra,9,14
+4,1944421,49,9,married,rented,yes,Analyst,Latur,Maharashtra,3,12
+5,13429,25,18,single,rented,yes,Comedian,Berhampore,West Bengal,13,11
+6,3437621,78,14,single,rented,no,Economist,Ramgarh,Jharkhand,3,10
+7,5101498,55,0,married,rented,no,Artist,Pallavaram,Tamil Nadu,0,14
+8,6716946,70,15,single,rented,yes,Flight attendant,Yamunanagar,Haryana,14,13
+9,8369802,43,7,single,rented,no,Secretary,Anand,Gujarat,6,13
+10,9565457,65,5,single,rented,yes,Engineer,Nandyal,Andhra Pradesh,3,12
+11,1960736,71,14,single,rented,no,Technician,Bihar Sharif,Bihar,5,10
+12,1964155,51,13,single,rented,no,Physician,Shivpuri,Madhya Pradesh,7,10
+13,1330107,61,13,single,rented,no,Politician,Bhilai,Chhattisgarh,11,12
+14,668849,74,15,single,rented,no,Psychologist,Bhavnagar,Gujarat,13,11
+15,7656053,55,20,single,rented,yes,Engineer,Tiruppur,Tamil Nadu,14,14
+16,2575197,72,2,single,owned,no,Scientist,Bongaigaon,Assam,2,14
+17,9173731,47,3,single,rented,no,Petroleum Engineer,Hapur,Uttar Pradesh,3,12
+18,2307642,72,12,single,rented,no,Chartered Accountant,Bulandshahr,Uttar Pradesh,12,13
+19,750679,73,6,single,owned,no,Web designer,Pimpri-Chinchwad,Maharashtra,5,13
+20,6543823,50,5,single,rented,yes,Geologist,Kurnool[18],Andhra Pradesh,5,13
+21,8435439,68,1,single,rented,no,Geologist,Kakinada,Andhra Pradesh,1,14
+22,4436504,56,9,single,rented,yes,Financial Analyst,Tadepalligudem,Andhra Pradesh,9,13
+23,1578395,45,3,single,owned,no,Software Developer,Bidhannagar,West Bengal,3,14
+24,4353927,73,17,married,rented,no,Official,Hospet,Karnataka,4,12
+25,1975497,53,16,single,rented,no,Statistician,Jamshedpur,Jharkhand,13,10
+26,1917641,48,3,single,rented,yes,Drafter,Sri Ganganagar,Rajasthan,3,14
+27,8126503,21,6,single,rented,no,Statistician,Udaipur,Rajasthan,6,12
+28,5185337,50,2,married,rented,no,Psychologist,Sikar,Rajasthan,2,14
+29,9073203,71,13,single,rented,no,Architect,Suryapet,Telangana,9,10
+30,9899664,45,5,single,rented,no,Software Developer,Bidhannagar,West Bengal,5,10
+31,7936046,35,11,single,rented,yes,Financial Analyst,Thane,Maharashtra,10,14
+32,4939158,65,12,single,rented,no,Official,Kavali,Andhra Pradesh,7,14
+33,6451557,40,7,single,rented,no,Microbiologist,Erode[17],Tamil Nadu,7,14
+34,7066438,44,1,married,rented,no,Drafter,Chittoor[28],Andhra Pradesh,1,10
+35,360873,56,3,single,rented,no,Graphic Designer,Gwalior,Madhya Pradesh,3,12
+36,6176694,66,10,single,rented,no,Designer,Allahabad,Uttar Pradesh[5],7,14
+37,6100940,44,9,single,rented,no,Army officer,Malda,West Bengal,8,13
+38,2890690,24,19,single,rented,yes,Civil servant,Pudukkottai,Tamil Nadu,13,13
+39,7545693,50,14,single,rented,no,Engineer,Srinagar,Jammu and Kashmir,4,14
+40,6235492,68,6,single,norent_noown,no,Comedian,Jamalpur[36],Bihar,6,12
+41,2882498,34,0,married,rented,no,Chemical engineer,Fatehpur,Uttar Pradesh,0,13
+42,579762,48,20,single,rented,no,Consultant,Coimbatore,Tamil Nadu,12,11
+43,2541188,44,1,married,rented,no,Financial Analyst,Berhampur,Odisha,1,10
+44,4943616,70,12,single,norent_noown,no,Air traffic controller,Thanjavur,Tamil Nadu,12,12
+45,5648251,48,2,single,rented,yes,Graphic Designer,Bahraich,Uttar Pradesh,2,13
+46,9205302,77,13,single,rented,yes,Microbiologist,Deoghar,Jharkhand,11,13
+47,1744080,41,14,single,rented,yes,Civil engineer,Nagaon,Assam,12,13
+48,5976201,37,12,single,rented,no,Consultant,Anantapuram[24],Andhra Pradesh,4,11
+49,825676,30,9,single,rented,yes,Psychologist,Gulbarga,Karnataka,9,13
+50,8382400,76,18,single,rented,yes,Industrial Engineer,Visakhapatnam[4],Andhra Pradesh,4,13
+51,6164439,65,4,married,rented,no,Chef,Morbi,Gujarat,4,11
+52,3458394,56,9,single,rented,yes,Air traffic controller,Tirupati[21][22],Andhra Pradesh,9,12
+53,732443,65,4,single,rented,no,Physician,Karnal,Haryana,4,14
+54,5724223,47,0,single,rented,no,Lawyer,Raichur,Karnataka,0,12
+55,743219,54,5,single,owned,no,Statistician,Haridwar,Uttarakhand,5,12
+56,8806392,61,5,married,rented,no,Software Developer,Giridih,Jharkhand,5,13
+57,1215004,25,5,single,rented,no,Firefighter,Jalna,Maharashtra,5,10
+58,9493120,63,19,single,rented,no,Hotel Manager,Nagercoil,Tamil Nadu,12,11
+59,4351817,31,3,married,rented,no,Hotel Manager,Tadepalligudem,Andhra Pradesh,3,11
+60,62058,66,16,single,rented,yes,Industrial Engineer,Coimbatore,Tamil Nadu,13,11
+61,1506859,30,11,single,rented,no,Surveyor,Raichur,Karnataka,5,10
+62,1117930,79,15,single,rented,no,Drafter,Rohtak,Haryana,9,12
+63,599470,53,17,single,rented,no,Flight attendant,Srinagar,Jammu and Kashmir,3,13
+64,1759925,47,18,single,owned,no,Comedian,Katni,Madhya Pradesh,7,14
+65,1077795,29,1,single,rented,no,Army officer,Rewa,Madhya Pradesh,1,14
+66,7465121,37,2,single,rented,yes,Microbiologist,Siliguri,West Bengal,2,12
+67,2265601,72,16,single,rented,no,Comedian,Buxar[37],Bihar,5,12
+68,3545959,28,6,single,rented,no,Magistrate,Mangalore,Karnataka,6,13
+69,9434706,30,9,single,rented,no,Secretary,Shimoga,Karnataka,9,13
+70,4646074,77,16,single,rented,no,Software Developer,Guwahati,Assam,6,13
+71,235563,48,5,married,rented,no,Flight attendant,Katihar,Bihar,5,11
+72,8557058,33,2,single,rented,no,Industrial Engineer,Deoghar,Jharkhand,2,14
+73,6165156,28,7,married,owned,no,Chef,Farrukhabad,Uttar Pradesh,7,13
+74,6619894,44,16,married,rented,yes,Politician,Etawah,Uttar Pradesh,6,14
+75,4732134,67,19,married,rented,no,Mechanical engineer,Kharagpur,West Bengal,6,11
+76,7171033,68,19,married,rented,no,Computer operator,Jalandhar,Punjab,4,10
+77,350406,40,13,single,norent_noown,no,Technical writer,"Khora, Ghaziabad",Uttar Pradesh,8,13
+78,9984878,51,18,single,rented,yes,Comedian,Jammu[16],Jammu and Kashmir,8,12
+79,3611839,55,20,single,rented,no,Civil servant,Aurangabad[39],Bihar,10,12
+80,8998014,72,13,single,rented,yes,Politician,Pondicherry,Puducherry,9,11
+81,2024213,38,19,single,rented,no,Comedian,Durg,Chhattisgarh,8,14
+82,6368882,46,7,single,rented,no,Analyst,Chittoor[28],Andhra Pradesh,3,10
+83,5867006,21,3,single,rented,no,Technology specialist,Miryalaguda,Telangana,3,11
+84,7872490,27,0,single,owned,yes,Web designer,Avadi,Tamil Nadu,0,10
+85,4618837,24,5,single,rented,no,Physician,Chennai,Tamil Nadu,5,12
+86,4902965,32,7,married,rented,no,Comedian,Nagercoil,Tamil Nadu,7,11
+87,7413713,71,5,single,rented,yes,Librarian,Tirunelveli,Tamil Nadu,5,13
+88,30515,73,12,single,rented,no,Physician,Gandhidham,Gujarat,3,11
+89,3171323,21,17,single,rented,no,Industrial Engineer,Shimla,Himachal Pradesh,5,12
+90,1013313,32,16,single,rented,no,Geologist,Bulandshahr,Uttar Pradesh,10,12
+91,7805855,44,10,single,rented,yes,Industrial Engineer,Eluru[25],Andhra Pradesh,10,14
+92,7298829,59,16,single,rented,no,Politician,Bharatpur,Rajasthan,3,13
+93,3369187,59,3,single,rented,yes,Surgeon,Tirunelveli,Tamil Nadu,3,14
+94,8301578,59,3,single,rented,no,Artist,Bally,West Bengal,3,11
+95,1169819,72,18,single,rented,yes,Computer operator,Vadodara,Gujarat,11,10
+96,5535441,66,0,single,rented,no,Drafter,Nashik,Maharashtra,0,13
+97,9249971,69,4,single,rented,no,Physician,Pali,Rajasthan,4,14
+98,486603,33,20,single,rented,no,Librarian,Bharatpur,Rajasthan,5,13
+99,7505485,27,17,single,rented,yes,Politician,Erode[17],Tamil Nadu,12,12
+100,4946039,60,0,single,rented,no,Financial Analyst,Kolkata,West Bengal,0,10
+101,5620082,58,14,single,rented,no,Politician,Akola,Maharashtra,9,11
+102,9120988,28,9,single,rented,no,Physician,Erode[17],Tamil Nadu,9,12
+103,5829652,25,7,single,owned,no,Biomedical Engineer,Chandigarh_city,Chandigarh,7,11
+104,8141031,23,17,single,rented,no,Secretary,Vijayanagaram,Andhra Pradesh,3,11
+105,9758182,33,9,single,rented,no,Civil engineer,Chennai,Tamil Nadu,7,11
+106,7053325,31,8,single,rented,no,Mechanical engineer,Mau,Uttar Pradesh,8,11
+107,5090745,35,5,married,rented,no,Chartered Accountant,Aizawl,Mizoram,5,12
+108,6044767,60,12,single,rented,yes,Engineer,Coimbatore,Tamil Nadu,10,13
+109,1161306,32,5,single,rented,no,Psychologist,Chittoor[28],Andhra Pradesh,5,10
+110,9086933,55,7,single,rented,no,Air traffic controller,Saharanpur,Uttar Pradesh,7,13
+111,3052236,70,0,single,rented,yes,Scientist,Jehanabad[38],Bihar,0,10
+112,2116651,55,18,single,rented,yes,Graphic Designer,Suryapet,Telangana,12,14
+113,7919486,36,12,single,rented,no,Surgeon,Thoothukudi,Tamil Nadu,8,12
+114,8773158,58,18,single,rented,yes,Firefighter,Serampore,West Bengal,5,13
+115,2451457,31,9,married,rented,no,Politician,Bulandshahr,Uttar Pradesh,9,12
+116,9482759,67,19,single,rented,no,Psychologist,Kulti,West Bengal,12,12
+117,8797493,55,15,single,rented,no,Technology specialist,Coimbatore,Tamil Nadu,12,13
+118,4330847,67,2,single,rented,no,Technician,Sambhal,Uttar Pradesh,2,14
+119,6467283,65,13,single,rented,yes,Architect,Morena,Madhya Pradesh,11,12
+120,1859505,60,7,single,rented,no,Design Engineer,Sambalpur,Odisha,7,11
+121,1295939,43,6,single,rented,yes,Drafter,Alwar,Rajasthan,6,14
+122,8565626,23,8,single,rented,no,Design Engineer,Chandrapur,Maharashtra,6,11
+123,7982817,60,6,single,rented,yes,Psychologist,Bhiwani,Haryana,5,14
+124,3318035,55,4,single,rented,yes,Drafter,Vijayanagaram,Andhra Pradesh,4,13
+125,4089728,22,18,single,rented,no,Scientist,Bulandshahr,Uttar Pradesh,8,14
+126,7278093,77,17,single,rented,no,Chemical engineer,Sirsa,Haryana,10,14
+127,8639080,67,14,single,rented,no,Drafter,Tenali,Andhra Pradesh,7,14
+128,7479878,55,8,married,rented,no,Analyst,Allahabad,Uttar Pradesh[5],8,14
+129,1796846,45,16,single,rented,yes,Software Developer,Bidar,Karnataka,9,14
+130,6820376,31,20,single,rented,no,Financial Analyst,Kalyan-Dombivli,Maharashtra,10,10
+131,7213058,50,12,single,rented,no,Army officer,Amravati,Maharashtra,4,12
+132,4560641,72,7,single,rented,no,Scientist,Pudukkottai,Tamil Nadu,7,13
+133,8806392,61,5,married,rented,no,Software Developer,Giridih,Jharkhand,5,13
+134,2366869,27,7,married,norent_noown,yes,Air traffic controller,Madanapalle,Andhra Pradesh,7,10
+135,7591621,41,6,single,owned,no,Artist,Jaunpur,Uttar Pradesh,3,14
+136,1379217,23,4,single,rented,no,Civil servant,Jamalpur[36],Bihar,4,14
+137,8692332,61,3,single,rented,no,Civil engineer,Warangal[11][12],Telangana,3,13
+138,5830306,68,16,married,rented,no,Analyst,Visakhapatnam[4],Andhra Pradesh,7,10
+139,6720927,64,17,single,rented,no,Web designer,Berhampur,Odisha,5,12
+140,1696344,31,18,single,rented,no,Librarian,Amritsar,Punjab,13,10
+141,7714522,37,0,single,rented,yes,Surgeon,Satna,Madhya Pradesh,0,10
+142,3711307,22,20,single,rented,yes,Economist,Ozhukarai,Puducherry,10,12
+143,4560641,72,7,single,rented,no,Scientist,Pudukkottai,Tamil Nadu,7,13
+144,6466990,37,13,single,rented,no,Technical writer,Chittoor[28],Andhra Pradesh,6,14
+145,9791368,76,15,single,rented,yes,Secretary,Shivpuri,Madhya Pradesh,3,11
+146,6448514,30,6,single,rented,no,Magistrate,Bihar Sharif,Bihar,6,10
+147,362328,25,14,single,rented,no,Design Engineer,Raebareli,Uttar Pradesh,8,12
+148,6940796,46,17,single,rented,no,Analyst,Bhiwandi,Maharashtra,9,11
+149,1852247,64,9,single,rented,yes,Aviator,Shivpuri,Madhya Pradesh,8,14
+150,6816106,31,20,single,rented,yes,Statistician,Adoni,Andhra Pradesh,11,14
+151,9131685,72,13,single,norent_noown,no,Computer hardware engineer,Rajkot,Gujarat,13,10
+152,9508412,36,0,single,rented,no,Comedian,Kadapa[23],Andhra Pradesh,0,10
+153,9627539,56,2,single,rented,yes,Designer,Varanasi,Uttar Pradesh,2,13
+154,4660756,78,0,single,rented,yes,Physician,Meerut,Uttar Pradesh,0,12
+155,3763002,27,2,single,rented,yes,Computer hardware engineer,Salem,Tamil Nadu,2,10
+156,3318035,55,4,single,rented,yes,Drafter,Vijayanagaram,Andhra Pradesh,4,13
+157,2907457,55,18,single,rented,no,Hotel Manager,Medininagar,Jharkhand,10,14
+158,2632398,65,2,single,rented,no,Microbiologist,Thane,Maharashtra,2,14
+159,3714943,36,12,single,rented,no,Aviator,Madurai,Tamil Nadu,8,12
+160,3304937,63,19,single,rented,yes,Fashion Designer,Ghaziabad,Uttar Pradesh,14,13
+161,2570723,45,15,single,rented,no,Mechanical engineer,Anand,Gujarat,6,12
+162,7058393,68,11,single,rented,no,Industrial Engineer,Panipat,Haryana,11,11
+163,9967854,33,9,single,rented,no,Consultant,Jalna,Maharashtra,5,13
+164,2824175,54,0,single,rented,no,Chef,Serampore,West Bengal,0,10
+165,233888,64,1,single,rented,no,Psychologist,Tumkur,Karnataka,1,10
+166,354766,78,0,single,rented,no,Computer hardware engineer,Saharanpur,Uttar Pradesh,0,10
+167,1259577,66,15,single,rented,no,Economist,Machilipatnam,Andhra Pradesh,3,10
+168,1716587,37,0,single,rented,no,Economist,Chandigarh_city,Chandigarh,0,11
+169,8442438,23,17,single,norent_noown,no,Mechanical engineer,Hindupur,Andhra Pradesh,3,14
+170,6947233,62,10,single,rented,no,Technical writer,Bidar,Karnataka,10,12
+171,267827,28,10,single,rented,yes,Biomedical Engineer,Kumbakonam,Tamil Nadu,3,10
+172,448021,54,11,single,rented,no,Flight attendant,Solapur,Maharashtra,11,14
+173,4658830,45,11,single,rented,yes,Computer hardware engineer,Amroha,Uttar Pradesh,8,10
+174,7515439,74,6,single,rented,no,Politician,Davanagere,Karnataka,6,11
+175,1705824,27,15,single,owned,no,Graphic Designer,Anantapuram[24],Andhra Pradesh,13,10
+176,9103667,54,3,married,owned,no,Software Developer,Howrah,West Bengal,3,12
+177,5602315,50,12,single,rented,no,Economist,Miryalaguda,Telangana,11,14
+178,9259060,54,16,single,rented,yes,Surveyor,Sirsa,Haryana,10,14
+179,8398435,50,9,single,norent_noown,yes,Economist,Vijayawada,Andhra Pradesh,8,10
+180,9516861,67,0,single,rented,no,Engineer,Dehri[30],Bihar,0,13
+181,4375780,66,3,single,owned,no,Secretary,Bidar,Karnataka,3,10
+182,1867623,60,2,single,rented,yes,Chef,Ambattur,Tamil Nadu,2,13
+183,6845511,78,14,single,rented,no,Fashion Designer,Saharanpur,Uttar Pradesh,4,12
+184,408434,34,8,single,rented,yes,Chartered Accountant,Suryapet,Telangana,4,12
+185,9879257,35,8,single,rented,yes,Technical writer,Jaipur,Rajasthan,4,10
+186,2624615,66,4,single,rented,yes,Computer hardware engineer,Vijayawada,Andhra Pradesh,4,12
+187,2307412,57,7,single,rented,no,Scientist,Aurangabad,Maharashtra,5,14
+188,7627512,44,14,single,rented,no,Chemical engineer,Ulhasnagar,Maharashtra,5,13
+189,2359728,66,14,single,rented,no,Industrial Engineer,Vijayawada,Andhra Pradesh,3,14
+190,4210306,59,7,single,rented,no,Civil engineer,Bathinda,Punjab,7,11
+191,6373227,68,19,single,rented,yes,Technology specialist,Bahraich,Uttar Pradesh,6,13
+192,681276,48,19,single,rented,no,Designer,Singrauli,Madhya Pradesh,13,13
+193,7302729,70,14,single,rented,no,Aviator,Bongaigaon,Assam,11,11
+194,729340,57,13,single,rented,no,Lawyer,Dehradun,Uttarakhand,13,10
+195,3767057,33,20,single,rented,no,Official,Udupi,Karnataka,6,11
+196,4543268,32,17,single,rented,no,Flight attendant,Tenali,Andhra Pradesh,3,13
+197,9221997,35,14,single,rented,yes,Microbiologist,Indore,Madhya Pradesh,9,13
+198,8437491,22,2,single,rented,no,Industrial Engineer,Etawah,Uttar Pradesh,2,14
+199,9544863,61,20,single,owned,no,Architect,Agartala,Tripura,14,14
+200,4273001,62,14,single,norent_noown,yes,Politician,Darbhanga,Bihar,14,14
+201,5604441,66,4,single,rented,yes,Civil engineer,Junagadh,Gujarat,4,11
+202,3269849,43,9,single,rented,no,Aviator,Guna,Madhya Pradesh,9,14
+203,7429005,69,2,married,rented,no,Computer hardware engineer,Gandhidham,Gujarat,2,13
+204,3878753,36,0,single,rented,no,Civil engineer,Kota[6],Rajasthan,0,10
+205,319857,78,20,single,rented,no,Dentist,Korba,Chhattisgarh,9,13
+206,5695568,45,3,single,rented,no,Economist,Ratlam,Madhya Pradesh,3,11
+207,5737594,26,11,single,rented,no,Lawyer,Gurgaon,Haryana,10,12
+208,8749318,21,15,married,rented,yes,Petroleum Engineer,Giridih,Jharkhand,4,14
+209,289113,40,5,single,rented,yes,Politician,Bilaspur,Chhattisgarh,5,12
+210,3330944,52,7,single,norent_noown,no,Biomedical Engineer,Thanjavur,Tamil Nadu,7,10
+211,408434,34,8,single,rented,yes,Chartered Accountant,Suryapet,Telangana,4,12
+212,2699320,27,1,single,rented,no,Police officer,Mangalore,Karnataka,1,10
+213,2150637,62,18,single,rented,yes,Lawyer,New Delhi,Delhi,10,10
+214,9508412,36,0,single,rented,no,Comedian,Kadapa[23],Andhra Pradesh,0,10
+215,5879597,46,17,single,rented,no,Graphic Designer,Bathinda,Punjab,9,11
+216,9782912,63,7,single,rented,no,Software Developer,Kollam,Kerala,6,10
+217,3602416,48,3,single,rented,no,Air traffic controller,Ratlam,Madhya Pradesh,3,13
+218,7896776,26,12,single,rented,no,Mechanical engineer,Karimnagar,Telangana,9,14
+219,1243869,22,17,single,rented,no,Technology specialist,Silchar,Assam,9,10
+220,8295121,50,11,single,rented,no,Army officer,Korba,Chhattisgarh,5,11
+221,3351044,32,3,single,rented,no,Flight attendant,Indore,Madhya Pradesh,3,11
+222,3115746,21,12,single,rented,no,Mechanical engineer,Nizamabad,Telangana,3,14
+223,7287661,58,4,single,rented,yes,Surveyor,Vellore,Tamil Nadu,4,14
+224,8812899,79,17,single,rented,no,Psychologist,Pune,Maharashtra,9,11
+225,2429683,43,20,single,rented,no,Financial Analyst,Siliguri,West Bengal,14,11
+226,3884230,25,13,single,rented,no,Scientist,Nagercoil,Tamil Nadu,10,11
+227,4668248,49,5,single,rented,yes,Computer hardware engineer,Durgapur,West Bengal,5,11
+228,5764547,21,8,single,rented,no,Petroleum Engineer,Thrissur,Kerala,7,10
+229,3013661,71,3,single,owned,no,Biomedical Engineer,Kirari Suleman Nagar,Delhi,3,14
+230,4175765,79,3,single,rented,no,Physician,Mysore[7][8][9],Karnataka,3,13
+231,1134496,77,3,single,rented,no,Surgeon,Jehanabad[38],Bihar,3,10
+232,5604484,51,14,single,rented,no,Geologist,Sikar,Rajasthan,4,13
+233,8415149,30,19,married,rented,no,Artist,Darbhanga,Bihar,3,10
+234,7596972,23,4,single,norent_noown,yes,Analyst,Nizamabad,Telangana,4,12
+235,5090840,78,12,single,rented,no,Flight attendant,Nagpur,Maharashtra,5,11
+236,651491,61,6,single,rented,yes,Air traffic controller,Buxar[37],Bihar,4,12
+237,6653271,49,11,single,rented,no,Civil engineer,Kochi,Kerala,11,10
+238,1601803,40,1,single,rented,no,Civil engineer,Bettiah[33],Bihar,1,10
+239,3539122,28,11,single,rented,no,Technician,Alappuzha,Kerala,4,13
+240,2712710,70,8,single,rented,no,Psychologist,Khandwa,Madhya Pradesh,5,11
+241,9142815,26,3,married,rented,yes,Technology specialist,Berhampore,West Bengal,3,12
+242,2304556,51,12,single,rented,no,Police officer,Nashik,Maharashtra,8,10
+243,5143268,53,4,single,rented,no,Official,Tenali,Andhra Pradesh,4,11
+244,3468402,50,10,single,rented,no,Secretary,Hyderabad,Telangana,7,14
+245,8631895,27,12,married,rented,no,Secretary,Giridih,Jharkhand,7,14
+246,1273453,61,12,married,rented,no,Technical writer,Khammam,Telangana,3,11
+247,8280263,28,16,single,rented,no,Flight attendant,Aizawl,Mizoram,14,11
+248,4913009,65,20,single,rented,yes,Software Developer,Rajahmundry[19][20],Andhra Pradesh,4,12
+249,3753824,28,7,single,rented,no,Microbiologist,Muzaffarnagar,Uttar Pradesh,7,11
+250,181528,39,17,single,rented,no,Drafter,Hajipur[31],Bihar,3,12
+251,4973814,24,19,single,rented,no,Computer operator,Amritsar,Punjab,6,12
+252,1434051,67,18,single,rented,no,Psychologist,Kishanganj[35],Bihar,10,13
+253,9165973,37,14,single,norent_noown,yes,Dentist,Arrah,Bihar,11,11
+254,6083790,31,5,single,rented,no,Physician,Sagar,Madhya Pradesh,4,11
+255,5865707,76,3,single,rented,no,Scientist,Jodhpur,Rajasthan,3,13
+256,1088718,60,5,single,rented,yes,Surveyor,Tezpur,Assam,5,10
+257,6864774,32,16,single,rented,no,Mechanical engineer,Begusarai,Bihar,9,13
+258,1542970,28,14,single,owned,no,Drafter,Mira-Bhayandar,Maharashtra,5,12
+259,1209322,41,10,single,rented,yes,Politician,Bidhannagar,West Bengal,10,13
+260,7747070,28,16,single,rented,no,Aviator,Nellore[14][15],Andhra Pradesh,9,12
+261,3432974,58,19,single,rented,no,Army officer,Saharsa[29],Bihar,12,14
+262,1967194,58,9,single,rented,no,Air traffic controller,Rewa,Madhya Pradesh,9,11
+263,267925,76,12,married,rented,no,Politician,Bally,West Bengal,6,12
+264,8683788,21,16,single,rented,yes,Technical writer,Gopalpur,West Bengal,10,11
+265,7797908,22,4,single,rented,yes,Official,Nagercoil,Tamil Nadu,4,14
+266,1528267,58,6,single,rented,no,Financial Analyst,Raichur,Karnataka,3,11
+267,1955543,22,6,married,rented,yes,Police officer,Kollam,Kerala,6,14
+268,5951881,27,17,single,rented,no,Geologist,Sonipat,Haryana,3,14
+269,4334000,36,4,single,rented,no,Politician,Berhampur,Odisha,4,11
+270,8908371,25,16,single,rented,no,Chef,Guwahati,Assam,7,11
+271,4342058,26,4,single,rented,yes,Technology specialist,Noida,Uttar Pradesh,4,10
+272,2237433,65,19,single,rented,no,Consultant,Begusarai,Bihar,7,12
+273,5975878,56,17,married,rented,no,Financial Analyst,Katihar,Bihar,6,11
+274,4719877,74,15,single,rented,no,Civil servant,Secunderabad,Telangana,11,10
+275,173096,40,13,single,rented,no,Politician,Ahmedabad,Gujarat,3,13
+276,4145551,46,15,married,rented,no,Statistician,Aligarh,Uttar Pradesh,11,13
+277,1494586,63,20,single,rented,yes,Financial Analyst,Nandyal,Andhra Pradesh,3,11
+278,5074140,61,18,single,rented,no,Analyst,Rourkela,Odisha,14,12
+279,2915439,62,0,married,rented,yes,Surveyor,Udaipur,Rajasthan,0,13
+280,1883575,49,16,single,rented,yes,Technician,Jamnagar,Gujarat,14,12
+281,5358407,22,3,single,rented,no,Software Developer,Hosur,Tamil Nadu,3,10
+282,3438381,46,6,single,rented,no,Web designer,Khandwa,Madhya Pradesh,6,12
+283,3231341,47,6,married,rented,no,Scientist,Kochi,Kerala,6,14
+284,7648698,68,16,single,rented,yes,Psychologist,Jhansi,Uttar Pradesh,13,10
+285,3632441,66,2,single,rented,yes,Statistician,Jabalpur,Madhya Pradesh,2,13
+286,5695568,45,3,single,rented,no,Economist,Ratlam,Madhya Pradesh,3,11
+287,5218820,76,14,single,owned,no,Civil servant,Karimnagar,Telangana,12,14
+288,5783146,51,18,single,rented,no,Psychologist,Chittoor[28],Andhra Pradesh,7,12
+289,7710303,41,12,single,rented,yes,Comedian,Motihari[34],Bihar,4,14
+290,6802871,54,20,single,rented,yes,Industrial Engineer,Kadapa[23],Andhra Pradesh,7,13
+291,2436593,54,19,single,rented,no,Firefighter,Jehanabad[38],Bihar,6,13
+292,6650638,47,19,single,rented,yes,Technical writer,Anand,Gujarat,12,13
+293,9177752,45,16,single,rented,no,Firefighter,Delhi_city,Delhi,10,13
+294,3369187,59,3,single,rented,yes,Surgeon,Tirunelveli,Tamil Nadu,3,14
+295,8007036,56,14,single,owned,no,Biomedical Engineer,Kirari Suleman Nagar,Delhi,4,13
+296,7442529,57,6,single,rented,yes,Chef,Saharsa[29],Bihar,5,10
+297,2319807,79,20,single,rented,no,Chemical engineer,Raichur,Karnataka,9,10
+298,9006540,79,14,single,rented,no,Lawyer,Meerut,Uttar Pradesh,13,11
+299,6414837,40,3,single,rented,no,Geologist,Thrissur,Kerala,3,14
+300,8800769,29,4,single,rented,no,Microbiologist,Vasai-Virar,Maharashtra,4,12
+301,7783136,44,13,single,rented,no,Physician,Miryalaguda,Telangana,9,12
+302,3460548,36,13,single,rented,no,Web designer,Kumbakonam,Tamil Nadu,5,13
+303,5764101,35,13,single,rented,no,Architect,Anand,Gujarat,13,11
+304,1148139,27,9,single,rented,no,Statistician,Visakhapatnam[4],Andhra Pradesh,5,14
+305,4940114,43,8,single,rented,no,Economist,Kulti,West Bengal,8,10
+306,6357644,37,5,single,rented,no,Surgeon,Raebareli,Uttar Pradesh,5,12
+307,2368485,27,10,single,norent_noown,no,Army officer,Kharagpur,West Bengal,7,12
+308,2363227,66,18,single,rented,yes,Physician,Kolkata,West Bengal,4,11
+309,5130335,54,4,single,rented,no,Computer operator,Nizamabad,Telangana,4,13
+310,3376799,24,6,single,rented,no,Computer hardware engineer,Moradabad,Uttar Pradesh,6,13
+311,4754357,25,0,single,rented,no,Lawyer,Pondicherry,Puducherry,0,12
+312,7298077,35,2,single,rented,no,Flight attendant,Bhiwandi,Maharashtra,2,13
+313,8936935,36,0,single,rented,no,Surveyor,Jorhat,Assam,0,14
+314,2829317,46,13,single,rented,no,Physician,Parbhani,Maharashtra,7,11
+315,9718890,56,13,single,norent_noown,no,Chef,Proddatur,Andhra Pradesh,8,14
+316,8908371,25,16,single,rented,no,Chef,Guwahati,Assam,7,11
+317,6101750,64,4,single,rented,yes,Psychologist,Bhubaneswar,Odisha,4,11
+318,9635286,73,15,single,rented,yes,Psychologist,Anand,Gujarat,8,11
+319,2082678,27,2,single,rented,no,Technology specialist,Guwahati,Assam,2,10
+320,2607689,26,17,single,rented,yes,Graphic Designer,Allahabad,Uttar Pradesh[5],8,11
+321,8784977,58,17,single,rented,no,Magistrate,Vellore,Tamil Nadu,14,14
+322,8246613,61,8,single,rented,no,Politician,Suryapet,Telangana,8,12
+323,7594168,29,15,single,rented,no,Fashion Designer,Motihari[34],Bihar,5,12
+324,4816881,59,19,single,rented,no,Firefighter,Satna,Madhya Pradesh,11,10
+325,2116329,36,9,single,rented,yes,Hotel Manager,Vijayanagaram,Andhra Pradesh,9,13
+326,555482,32,12,single,rented,no,Chartered Accountant,Gorakhpur,Uttar Pradesh,9,11
+327,8898785,67,10,single,rented,no,Drafter,Tinsukia,Assam,10,12
+328,4790996,62,16,single,rented,yes,Computer operator,Motihari[34],Bihar,10,11
+329,1342829,49,13,single,rented,no,Civil engineer,Tirunelveli,Tamil Nadu,8,11
+330,624985,47,11,single,rented,no,Software Developer,Varanasi,Uttar Pradesh,6,11
+331,3521091,54,5,married,rented,no,Mechanical engineer,Kadapa[23],Andhra Pradesh,5,14
+332,150879,77,0,single,norent_noown,yes,Lawyer,Rampur,Uttar Pradesh,0,12
+333,3323452,76,18,single,rented,yes,Psychologist,Mehsana,Gujarat,14,13
+334,3069692,47,19,single,norent_noown,no,Software Developer,Sultan Pur Majra,Delhi,5,11
+335,249273,33,18,single,rented,no,Engineer,Amaravati,Andhra Pradesh,9,14
+336,2299667,24,10,single,rented,no,Army officer,Allahabad,Uttar Pradesh[5],10,13
+337,3287483,37,8,single,rented,no,Design Engineer,Thoothukudi,Tamil Nadu,7,13
+338,9768431,72,4,single,owned,yes,Engineer,Hapur,Uttar Pradesh,4,14
+339,9238134,78,2,single,rented,no,Chef,Erode[17],Tamil Nadu,2,11
+340,1329677,72,18,single,rented,no,Librarian,Ramgarh,Jharkhand,5,13
+341,8496659,59,12,single,rented,no,Army officer,Karimnagar,Telangana,8,12
+342,6567922,23,20,single,norent_noown,yes,Statistician,Asansol,West Bengal,13,13
+343,5931557,67,8,single,rented,yes,Physician,Rajpur Sonarpur,West Bengal,8,12
+344,2810048,79,7,single,rented,no,Engineer,Hapur,Uttar Pradesh,7,13
+345,9241363,62,18,single,rented,yes,Computer operator,Secunderabad,Telangana,5,11
+346,5113329,59,3,single,rented,no,Microbiologist,Singrauli,Madhya Pradesh,3,14
+347,1909261,75,5,single,rented,no,Technology specialist,Dhule,Maharashtra,5,13
+348,1462736,43,13,single,rented,no,Scientist,Ajmer,Rajasthan,12,12
+349,2201037,21,13,single,rented,yes,Surveyor,Bulandshahr,Uttar Pradesh,13,13
+350,3367218,28,5,single,rented,no,Analyst,Raiganj,West Bengal,4,11
+351,8458068,34,6,single,rented,no,Dentist,Ambattur,Tamil Nadu,6,13
+352,5498131,61,15,single,rented,no,Industrial Engineer,Amritsar,Punjab,7,13
+353,3053891,25,14,single,rented,no,Firefighter,Proddatur,Andhra Pradesh,14,11
+354,8356848,54,2,single,rented,no,Dentist,Nangloi Jat,Delhi,2,12
+355,2307924,51,15,single,rented,yes,Fashion Designer,Agra,Uttar Pradesh,6,13
+356,9181312,31,5,single,rented,no,Architect,Dhule,Maharashtra,5,13
+357,7727737,41,11,single,rented,no,Civil servant,Giridih,Jharkhand,3,11
+358,7710303,41,12,single,rented,yes,Comedian,Motihari[34],Bihar,4,14
+359,991107,34,14,married,rented,yes,Designer,Saharsa[29],Bihar,7,10
+360,4398916,35,6,single,rented,yes,Computer hardware engineer,Bhavnagar,Gujarat,4,11
+361,5356329,48,18,single,norent_noown,no,Police officer,Mau,Uttar Pradesh,10,13
+362,4407294,73,20,single,rented,no,Biomedical Engineer,Surat,Gujarat,7,12
+363,8261806,70,6,single,rented,no,Graphic Designer,Mangalore,Karnataka,6,11
+364,8327839,63,2,single,norent_noown,no,Petroleum Engineer,Rohtak,Haryana,2,14
+365,8658161,79,13,single,rented,no,Politician,Ozhukarai,Puducherry,13,10
+366,8472760,73,10,single,rented,no,Psychologist,Sasaram[30],Bihar,10,10
+367,1625328,49,19,single,rented,yes,Firefighter,Ballia,Uttar Pradesh,9,12
+368,1765694,30,5,single,rented,no,Psychologist,Bhind,Madhya Pradesh,5,14
+369,2049469,70,18,single,rented,no,Engineer,North Dumdum,West Bengal,3,14
